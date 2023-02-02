@@ -8,7 +8,7 @@
 
 ## FULLSTACK PRACTICE PROJECT NO: 9
 
-1. A fullstack version of my previous frontend project to practice my skills using Javascript, NodeJS, ExpressJS, HTML, CSS.
+1. A fullstack version of my previous frontend project to practice my skills using Javascript, Jquery, NodeJS, ExpressJS, HTML, CSS.
 
 2. On button click or space key down it starts and stops video.
 
